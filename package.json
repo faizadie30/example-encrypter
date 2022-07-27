@@ -1,0 +1,17 @@
+{
+  "name": "learn-ecrypter",
+  "version": "1.0.0",
+  "description": "i learn encrypter with famous library: cryptojs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "encrypterjs"
+  ],
+  "author": "xyngc0de",
+  "license": "MIT",
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  }
+}
