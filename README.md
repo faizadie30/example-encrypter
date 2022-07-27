@@ -1,6 +1,6 @@
 # Getting Started with Example Encrypt And Decrypt
 
-This repository my reason create because i interesting encrypt and decrypt methode in javascript
+My reason create this repository, because i interesting encrypt and decrypt methode in javascript
 
 ## Available Scripts
 
